@@ -1,0 +1,14 @@
+button{
+    width: 150px;
+    height: 50px;
+    background-color: var(--cor-preta);
+    color: var(--cor-branca);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    font-family: var(--font-noto-sans);
+    margin-top: 24px;
+    cursor: pointer;
+    border-style: none;
+}

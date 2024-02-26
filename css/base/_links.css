@@ -1,0 +1,13 @@
+.links{
+    text-decoration: none;
+    margin-left: 16px;
+    font-family: var(--font-noto-sans);
+    color: var(--cor-preta);
+
+}
+
+.bold{
+    font-weight: 700;
+
+}
+
