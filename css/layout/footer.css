@@ -1,9 +1,9 @@
 .rodape {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    background-color: #3b3a3a;
-    padding: 20px;
+    background-color: rgba(218,88,47,1);
+    padding: 40px;
     color: var(--cor-branca );
     margin-top: 5%;
 }
